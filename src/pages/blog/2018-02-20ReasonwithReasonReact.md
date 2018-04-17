@@ -1,23 +1,37 @@
 ---
 templateKey: blog-post
-path: /reasonwithreact
-title: GatsbyJS and Reason w/ ReasonReact
-date: 2018-02-20T15:04:10.000Z
-description: GatsbyJS and Reason w/ ReasonReact
+path: /2fast2furiuosandheroicrefactoring
+title: 2 Fast 2 Furious and Heroic Refactoring for Mortals
+date: 2018-04-17T15:04:10.000Z
+description: 2 Fast 2 Furious and Heroic Refactoring for Mortals
 ---
-![GatsbyJS](https://blog.strapi.io/content/images/2018/01/34450329-a494355a-ed06-11e7-9d0a-30aefeb2fd57.jpg)
+2 Fast 2 Furious by Scott Tolinski
 
-Come downtown for food, drink, talks, and socializing. We'll be talking about ReactJS and related technologies. Talks/topics to be covered:
+After creating thousands of web development tutorials, Scott shares his secrets on how to learn quickly in a rapidly changing development world.
 
-GatsbyJS: Pros and Cons and In-Between by Gabriel Konkle
+Scott is the creator of Level Up Tutorials and co-host of the web development podcast, Syntax.fm.
+http://scotttolinski.com/
 
-Ecliptic was charged with making a custom CMS driven, static website for one of the leading candidates for the Governor of Colorado. We chose GatsbyJS and Headless Wordpress as our tools. I’m going on a deep dive into our results to flesh out the good, the bad, and the ugly and give an official 👍 or 👎 on whether you should use Gatsby on your next project.
+Heroic Refactoring for Mortals by Dan Levy
 
-Building Real Web Apps with Reason and ReasonReact by Gabriel Chertok
-![ReasonReact](https://pic1.zhimg.com/v2-bb0361ed31453a42bcd713f6822dc568_r.jpg)
+Learn a superhuman refactoring technique designed for us mortals. Dan will demonstrate how the right mix of Functional Programming in JavaScript can & will make your development life easier. None of the typical jargon will be necessary.
 
-A talk around patterns and simple solutions to build web apps in Reason! We all face common problems when building web apps and Reason is no different. In this talk, Gabriel will cover some patterns and techniques to solve common issues like auth, xhr, json parsing, and routing we all face when building ReasonReact apps.
+This talk will be especially valuable if you have ever had to refactor someone else's code, and had no idea what the author was thinking (or what your boss *actually* wants when asked to refactor).
+
+Honestly, who remembers what their own code was doing after only a few weeks away from it? Might as well have been coded by stranger!
+
+By the end of this talk:
+
+You will know how to break apart any unwieldy code into manageable & testable parts.
+Apply the concepts to peer/code review for high-value feedback.
+Profit!
+
+While the demo will be in JavaScript, the techniques will be applicable in almost any language. (I'm a NodeJS team guy so I gotta support the home team).
+
+Dan Levy is a Lead Instructor at Galvanize and contributor to multiple Open Source Software projects such as NodeJS, Docker, Lodash, Rancher, Minio, and more.
+http://www.danlevy.net/
 
 Many thanks to Ingenious Software, Turing, and Granicus for sponsoring!
+![Salt Lending](https://cdn-images-1.medium.com/max/1598/1*35YZq_XjwyBhdyw_2Jw4MA.png)
 ![Turing](http://usascholarships.com/wp-content/uploads/2015/07/turning.jpg)
 ![Granicus](https://pbs.twimg.com/profile_images/839580655478460416/b_bsq3KF_400x400.jpg)
