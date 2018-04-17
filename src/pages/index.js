@@ -29,8 +29,8 @@ export default class IndexPage extends React.Component {
         />
         <div className="container">
           <div className="content">
-            <h1 className="has-text-weight-bold is-size-2">Upcoming Events: Tuesday, April 17th, 2018
-6:00 PM to 8:00 PM</h1>
+            <h2 className="has-text-weight-bold is-size-2">Upcoming Events: Tuesday, April 17th, 2018
+6:00 PM to 8:00 PM</h2>
           </div>
           {posts
             .filter(post => post.node.frontmatter.templateKey === "blog-post")
