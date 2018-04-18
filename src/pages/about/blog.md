@@ -14,9 +14,6 @@ https://github.com/leveluptuts/level-up-vscode-theme
 
 
 
-
-
-
 ## Job Opportunities
 Ideas By Nature - ideasbynature.com
 -Blockchain, Node, Javascript, Devs
@@ -28,7 +25,6 @@ Vincent Benjamin - React/Node/Angular 720-297-1611 vincentbenjamin.com
 Christen Hissong UI Architect - React/Redux w/ typescript (2 year old statup downtown denver)
 303-483-2146 
 ChristenHissong@softecin.com
-
 
 Salt Lending - saltlending.com
 -Blockchain, Node, React
@@ -50,8 +46,6 @@ Twitter: @iamcherta
 Medium: Cherta
 Github: Cherta
 
-
-
 ## Reason
 Reason is a new syntax for oCaml AST
 
@@ -59,6 +53,7 @@ What is ReasonML?
 
 http://reasonmlhub.com/exploring-reasonml/ch_about-reasonml.html#what-is-reasonml
 
+```
 let greet = (name) => {
 "Hello " ++ name
 };
@@ -76,6 +71,8 @@ console.log("Hellow ReactJS Denver!");
 
 exports.greet = greet;
 /* Not a pure module */
+
+```
 
 ## Integrating React Bootstrap
 https://react-bootstrap.github.io/
