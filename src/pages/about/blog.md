@@ -10,7 +10,7 @@ Scott Tolinski
 
 https://twitter.com/leveluptuts
 https://github.com/leveluptuts/level-up-vscode-theme
-![Level Up Tutorials VS Code Extension](https://www.novoda.com/blog/content/images/2018/01/react-native-logo-opt.svg)
+![Level Up Tutorials VS Code Extension](https://github.com/leodotng/ReactDenverMeetup/blob/master/src/img/leveluptuts.png)
 
 
 
