@@ -15,25 +15,26 @@ https://github.com/leveluptuts/level-up-vscode-theme
 
 
 ## Job Opportunities
-Ideas By Nature - ideasbynature.com
+
+### Ideas By Nature - ideasbynature.com
 -Blockchain, Node, Javascript, Devs
 
-303 Software - React & Node Devs Full Stack Developers www.303software.com
+### 303 Software - React & Node Devs Full Stack Developers www.303software.com
 
-Vincent Benjamin - React/Node/Angular 720-297-1611 vincentbenjamin.com
+### Vincent Benjamin - React/Node/Angular 720-297-1611 vincentbenjamin.com
 
-Christen Hissong UI Architect - React/Redux w/ typescript (2 year old statup downtown denver)
+### Christen Hissong UI Architect - React/Redux w/ typescript (2 year old statup downtown denver)
 303-483-2146 
 ChristenHissong@softecin.com
 
-Salt Lending - saltlending.com
+### Salt Lending - saltlending.com
 -Blockchain, Node, React
 
-David Marker 937-470-0044
+### David Marker 937-470-0044
 Front end, Backend + React Native Developer
 http://www.linkedin.com/in/davidmarker
 
-Gabriel Konkle
+### Gabriel Konkle
 Twitter: @gabriel.konkle
 github: mssngr
 email: gabriel@ecliptic.io
