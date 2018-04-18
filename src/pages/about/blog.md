@@ -12,7 +12,14 @@ Scott Tolinski
 Ideas By Nature - ideasbynature.com
 -Blockchain, Node, Javascript, Devs
 
-303 Software - React & Node Devs Full Stack Developers
+303 Software - React & Node Devs Full Stack Developers www.303software.com
+
+Vincent Benjamin - React/Node/Angular 720-297-1611 vincentbenjamin.com
+
+Christen Hissong UI Architect - React/Redux w/ typescript (2 year old statup downtown denver)
+303-483-2146 
+ChristenHissong@softecin.com
+
 
 Salt Lending - saltlending.com
 -Blockchain, Node, React
