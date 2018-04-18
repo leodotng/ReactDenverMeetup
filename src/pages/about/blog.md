@@ -13,6 +13,8 @@ https://github.com/leveluptuts/level-up-vscode-theme
 ![Level Up Tutorials VS Code Extension](https://github.com/leodotng/ReactDenverMeetup/blob/master/src/img/leveluptuts.png)
 
 
+Dan Levy
+https://docs.google.com/presentation/d/1A6l2rxLVXZZXH0ubxlKLyvsvAC1Y_BYj2afWmWzyLB8/edit
 
 ## Job Opportunities
 
@@ -33,6 +35,10 @@ ChristenHissong@softecin.com
 ### David Marker 937-470-0044
 Front end, Backend + React Native Developer
 http://www.linkedin.com/in/davidmarker
+
+### GPS Front end/FS w/ Vue, Angular + React - pdonaldson@gpsstaffing.com
+
+### Homeadvisor - VueJS, Java, PM, QA more david.kider@homeadvisor.com
 
 ### Gabriel Konkle
 Twitter: @gabriel.konkle
