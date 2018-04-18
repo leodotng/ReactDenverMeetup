@@ -24,7 +24,9 @@ ChristenHissong@softecin.com
 Salt Lending - saltlending.com
 -Blockchain, Node, React
 
-React Native Talk coming next month
+David Marker 937-470-0044
+Front end, Backend + React Native Developer
+http://www.linkedin.com/in/davidmarker
 
 Gabriel Konkle
 Twitter: @gabriel.konkle
