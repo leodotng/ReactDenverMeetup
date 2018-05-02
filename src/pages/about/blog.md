@@ -10,11 +10,15 @@ Scott Tolinski
 
 https://twitter.com/leveluptuts
 https://github.com/leveluptuts/level-up-vscode-theme
-![Level Up Tutorials VS Code Extension](https://github.com/leodotng/ReactDenverMeetup/blob/master/src/img/leveluptuts.png)
+![Levelup](https://github.com/leodotng/ReactDenverMeetup/blob/master/src/img/leveluptuts.png)
 
 
 Dan Levy
 https://docs.google.com/presentation/d/1A6l2rxLVXZZXH0ubxlKLyvsvAC1Y_BYj2afWmWzyLB8/edit
+http://www.github.com/justml
+http://twitter.com/justml
+http://www.fpromises.io
+http://www.danlevy.net
 
 ## Job Opportunities
 
